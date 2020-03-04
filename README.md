@@ -1,24 +1,9 @@
-# README
+GRAMMABLE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+OVERVIEW
+Grammable - This App was built using Test-Driven Developement approacch. It allows the users to post photos, edit and delete them. It also allows other users comment on the photos.
 
-Things you may want to cover:
+VIEW.
+This App has main page which enables the user to sign up/sign in before taking you to a view where you can upload a photo and message about the it. It also allows current user comment, edit and delete photo.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+TOOLS USED: Ruby on Rails, Postgresql, HTML5, CSS3, Bootstrap, Devise, FactoryBot, Carrierwave, Rspec-rails.
